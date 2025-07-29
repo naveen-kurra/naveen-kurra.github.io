@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> Shanwaz Kotekanti - Software Developer Portfolio 🚀 </h1> 
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> to showcase my skills and professional achievements! </h3>
 
@@ -49,3 +50,6 @@
 git clone https://github.com/ShanwazKotekanti/ShanwazKotekanti.github.io.git
 cd ShanwazKotekanti.github.io
 ```
+=======
+# naveen-kurra.github.io
+>>>>>>> 23f779a163fd937da6a83f82340f3afe697debba
