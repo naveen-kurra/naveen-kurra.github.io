@@ -1,0 +1,10 @@
+.github
+images
+node_modules
+build
+public
+*.json
+node_modules/
+build/
+dist/
+*.log
