@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ce0a81d452e8e3888d32119e500cf70",
+    "revision": "82993f02b8b5eabd4c92ac1c8747b255",
     "url": "/index.html"
   },
   {
-    "revision": "0bc4ce0e5b4d348d7cc3",
-    "url": "/static/css/main.6e492f0a.chunk.css"
+    "revision": "e30209e95e909718576d",
+    "url": "/static/css/main.6ccb0f05.chunk.css"
   },
   {
-    "revision": "d8c8cb686cbcbd38febb",
-    "url": "/static/js/2.0eb04d11.chunk.js"
+    "revision": "782c4fd3f89e92f0159d",
+    "url": "/static/js/2.230d8bc5.chunk.js"
   },
   {
-    "revision": "0bc4ce0e5b4d348d7cc3",
-    "url": "/static/js/main.212f10b4.chunk.js"
+    "revision": "e30209e95e909718576d",
+    "url": "/static/js/main.6bcc0f8e.chunk.js"
   },
   {
     "revision": "f4163cc1361175add5e6",
@@ -72,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "6a4fc436c7b9503a083d1a6db19317f6",
+    "url": "/static/media/Naveen_Kurra.6a4fc436.png"
+  },
+  {
     "revision": "416034e165371718560be0daf914e25e",
     "url": "/static/media/UGA_logo.416034e1.png"
   },
@@ -82,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/static/media/address_image.16559172.svg"
+  },
+  {
+    "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
+    "url": "/static/media/animated_ashutosh.eaf02c2d.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
@@ -236,6 +244,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/intel_logo.29152cf7.jpg"
   },
   {
+    "revision": "ded54f6da5322093213302c4716358ca",
+    "url": "/static/media/islogo.ded54f6d.jpg"
+  },
+  {
     "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
     "url": "/static/media/iu_logo.60ed0bd3.png"
   },
@@ -250,6 +262,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/static/media/manOnTable.83ac24fb.svg"
+  },
+  {
+    "revision": "d106badcc647e31c5e3aef91ad1f1d11",
+    "url": "/static/media/matlablogo.d106badc.png"
   },
   {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
@@ -296,7 +312,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/uga_logo_short.0a1b6329.png"
   },
   {
+    "revision": "8c6fde2338a39e22843ef15082938e71",
+    "url": "/static/media/ugalogo.8c6fde23.png"
+  },
+  {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "0d834df0bd302939ba718eabd313ca3e",
+    "url": "/static/media/vitaplogo.0d834df0.png"
   }
 ]);
